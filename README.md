@@ -6,3 +6,7 @@
 　https://tkler.materialcommons.org/tkcm-y-summary/
 ・必要ツクールシリーズ：RPGツクールMV
 ・クレジット：fungamemake.com (原作:コミュ将)
+
+解説ページ
+
+https://fungamemake.com/archives/13642
